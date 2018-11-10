@@ -1,5 +1,5 @@
 # Express Cookies-Study
-#### This is a simple study of how cookies work with expressjs & cookie-parser
+#### This is a simple study of how cookies work with [expressjs](https://expressjs.com/) & [cookie-parser](https://www.npmjs.com/package/cookie-parser)
 *the server can be started with `node server.js`*
 
 ---
