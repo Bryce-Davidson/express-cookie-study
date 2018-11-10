@@ -16,18 +16,21 @@
 **optional**
 - `signed` - whether the cookie should be signed
 - `seconds` - how many seconds until the cookie expires
----
+
 **GET** - /seecookies
 -> See the the cookies in storage for the domain
 
----
 **GET** - /login
+
 *params*- days
 -> Create a login cookie
 
-optional
+**optional**
 - `days` - How many days until the login cookie expires
 this is one way *remember me* can be implemented
----
+
 **GET** - /profile
 -> view the mock profile of the user and the `loggedIn` cookie
+
+
+
