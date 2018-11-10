@@ -31,7 +31,7 @@
 
 **optional**
 - `days` - How many days until the login cookie expires
-this is one way *remember me* can be implemented
+(this is one way *remember me* can be implemented)
 
 **GET** - /profile
 
