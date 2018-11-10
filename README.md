@@ -6,7 +6,9 @@
 
 ### Routes
 **GET** - /setcookie/:cookiename
+
 *params* - value, signed, seconds
+
 -> Set a cookie with a name and value
 
 **required**
@@ -18,11 +20,13 @@
 - `seconds` - how many seconds until the cookie expires
 
 **GET** - /seecookies
+
 -> See the the cookies in storage for the domain
 
 **GET** - /login
 
 *params*- days
+
 -> Create a login cookie
 
 **optional**
@@ -30,6 +34,7 @@
 this is one way *remember me* can be implemented
 
 **GET** - /profile
+
 -> view the mock profile of the user and the `loggedIn` cookie
 
 
