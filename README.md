@@ -30,6 +30,3 @@ this is one way *remember me* can be implemented
 
 GET - /profile
 -> view the mock profile of the user and the `loggedIn` cookie
-
-
-
